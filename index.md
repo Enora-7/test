@@ -2,4 +2,6 @@
 
 ## Header
 
-[link to my second page](./)
+[link to my second page](./second page)
+
+[link to third page](./test/third_page)
