@@ -1,3 +1,3 @@
 # My second page
 
-[link to index](./index)
+[link to index](./)
