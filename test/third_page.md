@@ -1,3 +1,3 @@
 #Third page
 
-[link to index](./root/index)
+[link to index](../index)
